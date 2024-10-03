@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    font-family: Arial;
+    border: border-box; 
+}
+
+#navbar{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.logo{
+    height: 100px;
+    width: 100px;
+    color: green;
+}
